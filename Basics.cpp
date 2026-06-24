@@ -62,10 +62,16 @@ int main()
     // (X>Y)  ? cout<<"X" <<endl : cout<<"Y" <<endl;
 
 
+    //for loop;
     for(int i=0; i<5; i++)
     {
         cout<<i<<endl;
     }
+    //while loop
+    //do while loop
+    //pattern printing
 
-    
+
+
+
 }
