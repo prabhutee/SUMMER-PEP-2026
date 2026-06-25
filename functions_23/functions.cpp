@@ -93,4 +93,8 @@ using namespace std;
 
         //}
 
+        //Reverse of array
+        //Array sorted
+        //Running sum of 1d array.
+
 }
