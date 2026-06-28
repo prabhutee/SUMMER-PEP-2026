@@ -1,4 +1,4 @@
-//LS::
+//LS:
 //BS:
 #include<iostream>
 using namespace std;
@@ -47,7 +47,7 @@ int main()
         //find the first and last position of an element in sorted array.
         //floor
         //ceil
-        
+
 
 
 
