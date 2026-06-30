@@ -48,6 +48,14 @@ int main()
         //floor
         //ceil
 
+        //29/6/26:
+        //koko eating bananas
+        //kadane
+        //maximum subarray sum
+        //reverse groups in array
+        //group together consecutive ones
+
+
 
 
 
