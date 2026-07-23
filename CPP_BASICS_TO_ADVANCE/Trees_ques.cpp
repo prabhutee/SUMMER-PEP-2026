@@ -16,6 +16,24 @@
 //RANGE SUM
 
 
-20/7/26:
+
+// 20/7/26:
+// lc108
+//lc701
+//lc 653
+//lc230
+//lc98
+//predecessor and successor
+//lc delete a node from BST
+
+// 22/7/26:
+// BFS DFS GRAPH BASICS
+
+
+// 23/7/26:
+// NO OF PROVINCES
+//unordered graph cycle
+
+
 
 
